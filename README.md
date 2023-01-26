@@ -1,4 +1,5 @@
-# ClassroomVR-Demo
+# ClassroomVR
+
 ClassroomVR is a state of the art Elearning app for VR. I made it using Unity, XR Plugin and XR Interaction Plugin for the foundation. Photon Engine is used for  multiplayer and voice. 
 
 > This game is made for Meta Quest 1 and 2.
